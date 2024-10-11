@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_earth.mk
+    $(LOCAL_DIR)/xdroid_earth.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_earth-user \
-    cipher_earth-userdebug \
-    cipher_earth-eng
+    xdroid_earth-user \
+    xdroid_earth-userdebug \
+    xdroid_earth-eng
