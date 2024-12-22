@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_earth.mk
+    $(LOCAL_DIR)/aosp_earth.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_earth-user \
-    cipher_earth-userdebug \
-    cipher_earth-eng
+    aosp_earth-user \
+    aosp_earth-userdebug \
+    aosp_earth-eng
